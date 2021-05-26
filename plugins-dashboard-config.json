@@ -8,8 +8,8 @@
       "repo": "OctoPrint-DisplayLayerProgress"
     },
     {
-      "id": "displaylayerprogress", 
-      "name": "My SpoolManager", 
+      "id": "spoolmanager", 
+      "name": "SpoolManager", 
       "url": "https://github.com/OllisGit/OctoPrint-SpoolManager", 
       "repo": "OctoPrint-SpoolManager"
     }
