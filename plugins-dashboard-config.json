@@ -1,7 +1,7 @@
 {
   "gitHubUser": "OllisGit",
   "plugins": [
-    {"id": "DisplayLayerProgress", 
+    {"id": "displaylayerprogress", 
      "name": "DisplayLayerProgress", 
      "url": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress", 
      "repo": "OctoPrint-DisplayLayerProgres"}
