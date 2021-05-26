@@ -4,6 +4,12 @@
     {"id": "displaylayerprogress", 
      "name": "DisplayLayerProgress", 
      "url": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress", 
-     "repo": "OctoPrint-DisplayLayerProgress"}
+     "repo": "OctoPrint-DisplayLayerProgress"},
+    
+    {"id": "displaylayerprogress", 
+     "name": "My SpoolManager", 
+     "url": "https://github.com/OllisGit/OctoPrint-SpoolManager", 
+     "repo": "OctoPrint-SpoolManager"},
+    
   ]
 }
