@@ -1,7 +1,7 @@
 {
-  "gitHubUser": "The-EG",
+  "gitHubUser": "OllisGit",
   "plugins": [
-    {"id": "camerasettings", "name": "Camera Settings", "url": "https://github.com/The-EG/OctoPrint-CameraSettings", "repo": "OctoPrint-CameraSettings"},
+    {"id": "displaylayerprogress", "name": "DisplayLayerProgress", "url": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress", "repo": "OctoPrint-DisplayLayerProgress"},
     {"id": "ublmeshedit", "name": "UBL Mesh Editor", "url": "https://github.com/The-EG/OctoPrint-UblMeshEditor", "repo": "OctoPrint-UBLMeshEdit"}
   ]
 }
