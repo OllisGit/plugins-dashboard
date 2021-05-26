@@ -12,6 +12,13 @@
       "name": "SpoolManager", 
       "url": "https://github.com/OllisGit/OctoPrint-SpoolManager", 
       "repo": "OctoPrint-SpoolManager"
+    }, 
+    {
+      "id": "printjobhistory", 
+      "name": "Print Job History", 
+      "url": "https://github.com/OllisGit/OctoPrint-PrintJobHistory", 
+      "repo": "OctoPrint-PrintJobHistory"
     }
+    
   ]
 }
