@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - the-eg
+      - ollis-git
 
 jobs:
   build-and-push:
@@ -11,7 +11,7 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v2
         with:
-          ref: the-eg
+          ref: ollis-git
           path: src
       - name: Checkout current
         uses: actions/checkout@v2
