@@ -18,7 +18,12 @@
       "name": "Print Job History", 
       "url": "https://github.com/OllisGit/OctoPrint-PrintJobHistory", 
       "repo": "OctoPrint-PrintJobHistory"
-    }
-    
+    },
+    {
+      "id": "filamentmanager", 
+      "name": "FilamentManager", 
+      "url": "https://github.com/OllisGit/OctoPrint-FilamentManager", 
+      "repo": "OctoPrint-FilamentManager"
+    }    
   ]
 }
